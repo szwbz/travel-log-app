@@ -1,0 +1,11 @@
+# Golden Gate Bridge
+**Coordinates:** 37.8199, -122.4783
+
+## Overview
+The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean in California, United States. The structure links San Francisco—the northern tip of the San Francisco Peninsula—to Marin County, carrying both U.S. Route 101 and California State Route 1 across the strait. It also carries pedestrian and bicycle traffic, and is designated as part of U.S. Bicycle Route 95. Recognized by the American Society of Civil Engineers as one of the Wonders of the Modern World, the bridge is one of the most internationally recognized symbols of San Francisco and California.
+
+The idea of a fixed link between San Francisco and Marin had gained increasing popularity during the late 19th century, but it was not until the early 20th century that such a link became feasible. Joseph Strauss served as chief engineer for the project, with Leon Moisseiff, Irving Morrow and Charles Ellis making significant contributions to its design. The bridge opened to the public on May 27, 1937, and has undergone various retrofits and other improvement projects in the decades since.
+
+The Golden Gate Bridge is described in Frommer's travel guide as "possibly the most beautiful, certainly the most photographed, bridge in the world." At the time of its opening in 1937, it was both the longest and the tallest suspension bridge in the world, titles it held until 1964 and 1998 respectively. Its main span is 4,200 feet (1,280 m) and its total height is 746 feet (227 m).
+
+*Profile generated on 2026-02-07.*
